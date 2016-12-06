@@ -12,3 +12,7 @@ getRandomNumber(5,10);
 //=> 7
 ```
 
+```
+getURLSlug('Here You Go');
+//=> 'here-you-go'
+```
